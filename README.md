@@ -1,1 +1,1 @@
-# repository is intented to serve as host to supplementory data for SNIP-2023
+# repository is intented to serve as host for SNIP-2023's supplementory information
